@@ -70,6 +70,7 @@ li {
   padding: 1.6rem 3.2rem;
   border: none;
   color: rgb(255 255 255);
+  border-radius: 0.5rem;
   display: inline-block;
   font-size: 1.8rem;
   text-transform: uppercase;
@@ -84,8 +85,8 @@ li {
 }
 
 .btn:hover {
-  box-shadow: 0px 20px 20px 0px rgb(132 144 255 / 30%);
-  color: rgb(255 255 255);
+   box-shadow: 0px 20px 20px 0px rgba(69, 74, 121, 0.3);
+  color: rgb(255, 255, 255); 
 }
 
 .section {
